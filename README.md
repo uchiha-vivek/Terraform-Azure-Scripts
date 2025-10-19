@@ -1,5 +1,12 @@
-## Explaination of `Main File`
+## Azure and Terraform
 
+<p align="center" style="display: flex; justify-content: center; gap: 150px;">
+   <img src="./assets/Terraform.png" width="300" alt="Redis Logo">
+   <img src="./assets/Azure.png" width="300" alt="Redis Logo">
+</p>
+
+
+## Explaination of `Main File`
 
 Terraform Configuration Block
 
