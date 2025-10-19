@@ -5,6 +5,8 @@
    <img src="./assets/Azure.png" width="300" alt="Redis Logo">
 </p>
 
+Here we are trying to create Azure Web app service from Terraform script.
+
 ## Installation and Execution Steps
 
 
