@@ -5,6 +5,47 @@
    <img src="./assets/Azure.png" width="300" alt="Redis Logo">
 </p>
 
+## Installation and Execution Steps
+
+
+Clone the respository
+
+```bash
+https://github.com/uchiha-vivek/Terraform-Azure-Scripts.git
+cd Terraform-Azure-Scripts
+```
+
+Login into Azure from the terminal
+
+```bash
+az login
+az account set --subscription "<subscription-id>"
+```
+
+Intialize the terraform project
+
+```bash
+terraform init
+```
+
+Preview infrastructure
+
+```bash
+terraform plan
+```
+
+Deploy
+
+```bash
+terraform deploy
+```
+
+If you want to destroy the changes
+
+```bash
+terraform destroy
+```
+
 
 ## Explaination of `Main File`
 
